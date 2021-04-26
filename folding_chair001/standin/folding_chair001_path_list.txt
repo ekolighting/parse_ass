@@ -1,0 +1,42 @@
+ texture_searchpath "/show/startup/seq/EP03/EP03_S052_0010/env/dev/maya/sourceimages"
+===> texture_searchpath "J:/show/startup/seq/EP03/EP03_S052_0010/env/dev/maya/sourceimages"
+
+ procedural_searchpath "/show/startup/seq/EP03/EP03_S052_0010/env/dev/maya/"
+===> procedural_searchpath "J:/show/startup/seq/EP03/EP03_S052_0010/env/dev/maya/"
+
+ filename "/show/startup/seq/EP03/EP03_S052_0010/env/dev/maya/images/beauty/asset_scene_v001.exr"
+===> filename "J:/show/startup/seq/EP03/EP03_S052_0010/env/dev/maya/images/beauty/asset_scene_v001.exr"
+
+ native_catalog_path "/usr/autodesk/maya2019/synColor"
+===> native_catalog_path "J:/usr/autodesk/maya2019/synColor"
+
+ custom_catalog_path "/home/w10095/maya/synColor/Shared/"
+===> custom_catalog_path "J:/home/w10095/maya/synColor/Shared/"
+
+ filename "/show/school/assets/env/hyosan_roof/env/dev/maya/hyosan_roof_prop/folding_chair001/texture/4k/tx/folding_chair001_diff1_1001.tx"
+===> filename "J:/show/school/assets/env/hyosan_roof/env/dev/maya/hyosan_roof_prop/folding_chair001/texture/4k/tx/folding_chair001_diff1_1001.tx"
+
+ filename "/show/school/assets/env/hyosan_roof/env/dev/maya/hyosan_roof_prop/folding_chair001/texture/4k/tx/folding_chair001_roug1_1001.tx"
+===> filename "J:/show/school/assets/env/hyosan_roof/env/dev/maya/hyosan_roof_prop/folding_chair001/texture/4k/tx/folding_chair001_roug1_1001.tx"
+
+ filename "/show/school/assets/env/hyosan_roof/env/dev/maya/hyosan_roof_prop/folding_chair001/texture/4k/tx/folding_chair001_metal1_1001.tx"
+===> filename "J:/show/school/assets/env/hyosan_roof/env/dev/maya/hyosan_roof_prop/folding_chair001/texture/4k/tx/folding_chair001_metal1_1001.tx"
+
+ filename "/show/school/assets/env/hyosan_roof/env/dev/maya/hyosan_roof_prop/folding_chair001/texture/4k/tx/folding_chair001_norm1_1001.tx"
+===> filename "J:/show/school/assets/env/hyosan_roof/env/dev/maya/hyosan_roof_prop/folding_chair001/texture/4k/tx/folding_chair001_norm1_1001.tx"
+
+ filename "/show/startup/seq/EP03/EP03_S052_0010/env/dev/maya/images/diffuse/asset_scene_v001.exr"
+===> filename "J:/show/startup/seq/EP03/EP03_S052_0010/env/dev/maya/images/diffuse/asset_scene_v001.exr"
+
+ filename "/show/startup/seq/EP03/EP03_S052_0010/env/dev/maya/images/diffuse_albedo/asset_scene_v001.exr"
+===> filename "J:/show/startup/seq/EP03/EP03_S052_0010/env/dev/maya/images/diffuse_albedo/asset_scene_v001.exr"
+
+ filename "/show/startup/seq/EP03/EP03_S052_0010/env/dev/maya/images/specular/asset_scene_v001.exr"
+===> filename "J:/show/startup/seq/EP03/EP03_S052_0010/env/dev/maya/images/specular/asset_scene_v001.exr"
+
+ filename "/show/startup/seq/EP03/EP03_S052_0010/env/dev/maya/images/sss/asset_scene_v001.exr"
+===> filename "J:/show/startup/seq/EP03/EP03_S052_0010/env/dev/maya/images/sss/asset_scene_v001.exr"
+
+ filename "/show/startup/seq/EP03/EP03_S052_0010/env/dev/maya/images/transmission/asset_scene_v001.exr"
+===> filename "J:/show/startup/seq/EP03/EP03_S052_0010/env/dev/maya/images/transmission/asset_scene_v001.exr"
+

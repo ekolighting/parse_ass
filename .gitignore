@@ -7,11 +7,17 @@ __pycache__/
 *.png
 *.tx
 *.exr
+*.jpg
 
 #No Arnold Source Scene
 *.ass
 *.mb
 *.ma
+*.mel
+
+#etc
+*.DS_Store
+*.db
 
 # C extensions
 *.so
