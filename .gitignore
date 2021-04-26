@@ -11,6 +11,7 @@ __pycache__/
 #No Arnold Source Scene
 *.ass
 *.mb
+*.ma
 
 # C extensions
 *.so
