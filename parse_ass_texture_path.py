@@ -1,3 +1,8 @@
+'''
+Final Version
+Read/re-Write Arnold Scene Source
+developer : Eugene Ko
+'''
 import os, shutil
 from os import walk
 
